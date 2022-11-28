@@ -10,7 +10,9 @@
 Project source: 
 
 +# Sprint 2:
-- [ ] Begin coding
-- [ ] Make small updates and add commit messages
-- [ ] Commit code changes
-- [ ] Track progress in project road map
+- [x] Begin coding
+- [x] Make small updates and add commit messages
+- [x] Commit 6 code changes
+- [x] Track progress in project road map
+
+# sprint3
