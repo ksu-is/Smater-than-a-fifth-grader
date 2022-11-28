@@ -16,3 +16,5 @@ Project source:
 - [x] Track progress in project road map
 
 # sprint3
+- [x] Create slide
+- [x] Update code
